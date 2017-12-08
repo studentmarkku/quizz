@@ -16,3 +16,7 @@ Sovellus antaa kysymyksiä joihin vastataan consoleen kirjoittamalla haluama kir
 Kysymyksiin vastataan a,b,c tai d
 
 ![capture2](https://user-images.githubusercontent.com/31984187/33784112-41692250-dc68-11e7-8bfb-3a6c4bcdde8f.PNG)
+
+Kun kysymykset loppuvat tulee ruutuun oikeiden vastausten määrä
+
+![capture3](https://user-images.githubusercontent.com/31984187/33784150-718ec232-dc68-11e7-9652-20c29976bc65.PNG)
