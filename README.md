@@ -12,3 +12,7 @@ pelkistettyyn versioon.
 Sovellus antaa kysymyksiä joihin vastataan consoleen kirjoittamalla haluama kirjain
 
 ![capture1](https://user-images.githubusercontent.com/31984187/33784061-042ed092-dc68-11e7-8712-4dfd7fedfe48.PNG)
+
+Kysymyksiin vastataan a,b,c tai d
+
+![capture2](https://user-images.githubusercontent.com/31984187/33784112-41692250-dc68-11e7-8bfb-3a6c4bcdde8f.PNG)
